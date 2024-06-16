@@ -1,0 +1,9 @@
+.App {
+    text-align: center;
+    padding: 20px;
+}
+
+canvas {
+    border: 1px solid black;
+    margin-top: 20px;
+}
