@@ -1,14 +1,10 @@
-import React from 'react';
+import logo from './logo.svg';
 import './App.css';
-import NiftiViewer from '.';
 
 function App() {
-    return (
-        <div className="App">
-            <h1>NIfTI Viewer</h1>
-            <NiftiViewer />
-        </div>
-    );
+  return (
+    <h1>MY name is kaustubh</h1>
+  );
 }
 
 export default App;
